@@ -1,0 +1,18 @@
+#DOM-hidden {
+  display:none;
+}
+
+
+#JavaScript-hidden {
+  display:none;
+}
+
+.DOMclick:hover {
+  cursor:pointer;
+  color:blue;
+}
+
+.JavaClick:hover {
+  cursor: pointer;
+  color:blue;
+}
