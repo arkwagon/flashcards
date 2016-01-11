@@ -1,18 +1,39 @@
 #DOM-hidden {
   display:none;
 }
-
-
-#JavaScript-hidden {
-  display:none;
-}
-
 .DOMclick:hover {
   cursor:pointer;
   color:blue;
 }
 
+#JavaScript-hidden {
+  display:none;
+}
 .JavaClick:hover {
+  cursor: pointer;
+  color:blue;
+}
+
+#Modulo-hidden {
+  display:none;
+}
+.ModuloClick:hover {
+  cursor: pointer;
+  color:blue;
+}
+
+#Operators-hidden {
+  display:none;
+}
+.OperatorsClick:hover {
+  cursor: pointer;
+  color:blue;
+}
+
+#Booleans-hidden {
+  display:none;
+}
+.BooleansClick:hover {
   cursor: pointer;
   color:blue;
 }

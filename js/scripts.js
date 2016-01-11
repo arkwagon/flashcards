@@ -9,5 +9,20 @@ $(document).ready(function() {
     $("#JavaScript-hidden").toggle();
   });
 
+  $(".ModuloClick").click(function() {
+    $("#Modulo-showing").toggle();
+    $("#Modulo-hidden").toggle();
+  });
+
+  $(".OperatorsClick").click(function() {
+    $("#Operators-showing").toggle();
+    $("#Operators-hidden").toggle();
+  });
+
+  $(".BooleansClick").click(function() {
+    $("#Booleans-showing").toggle();
+    $("#Booleans-hidden").toggle();
+  });
+
 
 });
