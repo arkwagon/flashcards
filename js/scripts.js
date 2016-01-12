@@ -2,6 +2,7 @@ $(document).ready(function() {
   $(".DOMclick").click(function() {
     $("#DOM-showing").toggle();
     $("#DOM-hidden").toggle();
+    $(this).toggleClass("black");
   });
 
   $(".JavaClick").click(function() {

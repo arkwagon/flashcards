@@ -3,7 +3,6 @@
 }
 .DOMclick:hover {
   cursor:pointer;
-  color:blue;
 }
 
 #JavaScript-hidden {
@@ -11,7 +10,7 @@
 }
 .JavaClick:hover {
   cursor: pointer;
-  color:blue;
+
 }
 
 #Modulo-hidden {
@@ -19,7 +18,7 @@
 }
 .ModuloClick:hover {
   cursor: pointer;
-  color:blue;
+
 }
 
 #Operators-hidden {
@@ -27,7 +26,7 @@
 }
 .OperatorsClick:hover {
   cursor: pointer;
-  color:blue;
+
 }
 
 #Booleans-hidden {
@@ -35,5 +34,26 @@
 }
 .BooleansClick:hover {
   cursor: pointer;
-  color:blue;
+
+}
+
+body {
+  background-color: gray;
+}
+
+.header {
+  margin-top: 40px;
+  height: 800px;
+  text-align: center;
+  background-image:url('https://eremophila.files.wordpress.com/2011/12/034foggy-morn.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+}
+
+.terms {
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+
 }
